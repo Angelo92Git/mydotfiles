@@ -1,0 +1,7 @@
+[diff]
+	tool = vimdiff
+[user]
+	name = Angelo92Git
+	email = angelorajendram92@gmail.com
+[color]
+	ui = true
