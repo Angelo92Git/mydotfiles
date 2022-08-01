@@ -113,6 +113,10 @@ n ()
 alias rm='rm -i'
 # AngeloADD END: rm alias warning
 
+# AngeloADD START: wslview with fzf to open files
+alias o='wslview "$(fzf)"'
+# AngeloADD END: wslview with fzf to open files
+
 # Angelo ADD START: git dot file management
 alias config='/usr/bin/git --git-dir=/home/angelo/.cfg/ --work-tree=/home/angelo'
 #Angelo ADD END: git dot file management
