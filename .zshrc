@@ -148,3 +148,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# Created by `pipx` on 2022-08-10 11:48:18
+export PATH="$PATH:/home/angelo/.local/bin"
