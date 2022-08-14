@@ -151,3 +151,5 @@ source $ZSH/oh-my-zsh.sh
 
 # Created by `pipx` on 2022-08-10 11:48:18
 export PATH="$PATH:/home/angelo/.local/bin"
+
+[ -f "/home/angelo/.ghcup/env" ] && source "/home/angelo/.ghcup/env" # ghcup-env
