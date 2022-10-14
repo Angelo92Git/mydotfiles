@@ -153,3 +153,5 @@ source $ZSH/oh-my-zsh.sh
 export PATH="$PATH:/home/angelo/.local/bin"
 
 [ -f "/home/angelo/.ghcup/env" ] && source "/home/angelo/.ghcup/env" # ghcup-env
+
+source $HOME/conda_init_zsh.sh
