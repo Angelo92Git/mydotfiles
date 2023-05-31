@@ -122,3 +122,4 @@ alias config='/usr/bin/git --git-dir=/home/angelo/.cfg/ --work-tree=/home/angelo
 
 source /home/angelo/.config/broot/launcher/bash/br
 
+. "$HOME/.cargo/env"

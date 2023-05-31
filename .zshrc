@@ -113,6 +113,10 @@ n ()
 alias rm='rm -i'
 # AngeloADD END: rm alias warning
 
+# AngeloADD START: fdfind alias
+alias fd='fdfind'
+# AngeloADD END: fdfind alias
+
 # AngeloADD START: wslview with fzf to open files
 alias o='wslview "$(fzf)"'
 # AngeloADD END: wslview with fzf to open files
